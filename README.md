@@ -1,3 +1,3 @@
 # stephen-newton
-THis project aims to teach me how to become a code reviewer 
-by performing a review on one of my microverse trial projects.
+Product Landing Page
+This is a microverse trial project done by Stephen and Newton
